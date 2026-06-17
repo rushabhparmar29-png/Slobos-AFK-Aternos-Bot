@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "nikaD2010721198-VUiG.aternos.me",
+    "port": 28092,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -27,
+    "y": 62,
+    "z": 114
   },
   "utils": {
     "auto-auth": {
